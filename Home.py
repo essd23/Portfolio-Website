@@ -8,7 +8,8 @@ with col2:
     st.title("Saheed Akinyemi")
     content = """
   Hi, I'm Saheed! I am a Python Programmer, Network Engineer and a Cyber Security Enthusiast. I graduated in 2018
-with a Bachelors Degree from Osun State University. I currently work with NetIT solutions as a Network Engineer. 
+with a Bachelors Degree in Computer Science from Osun State University. I currently work with NetIT solutions as 
+a Network Engineer. 
  Welcome to my portfolio website.
     """
     st.info(content)
